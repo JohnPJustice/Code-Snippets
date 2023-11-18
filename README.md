@@ -1,2 +1,2 @@
 # Code-Snippets
-Collection of code snippets from my early development days.
+Collection of scripts from my early development days.
